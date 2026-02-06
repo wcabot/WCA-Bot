@@ -1,3 +1,6 @@
 discord.py
 openai
 python-dotenv
+anthropic
+apscheduler
+pillow
